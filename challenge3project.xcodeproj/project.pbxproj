@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17D09C322947760400D341CF /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D09C312947760400D341CF /* DetailViewController.swift */; };
 		17EF1AE129451D3000FC9CEF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17EF1AE029451D3000FC9CEF /* AppDelegate.swift */; };
 		17EF1AE329451D3000FC9CEF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17EF1AE229451D3000FC9CEF /* SceneDelegate.swift */; };
 		17EF1AE829451D3000FC9CEF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17EF1AE629451D3000FC9CEF /* Main.storyboard */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		17D09C312947760400D341CF /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		17EF1ADD29451D3000FC9CEF /* challenge3project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = challenge3project.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17EF1AE029451D3000FC9CEF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17EF1AE229451D3000FC9CEF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				17EF1AE029451D3000FC9CEF /* AppDelegate.swift */,
 				17EF1AE229451D3000FC9CEF /* SceneDelegate.swift */,
 				17EF1AE629451D3000FC9CEF /* Main.storyboard */,
+				17D09C312947760400D341CF /* DetailViewController.swift */,
 				17EF1B24294522A300FC9CEF /* TableViewController.swift */,
 				17EF1AE929451D3100FC9CEF /* Assets.xcassets */,
 				17EF1AEB29451D3100FC9CEF /* LaunchScreen.storyboard */,
@@ -189,6 +192,7 @@
 				17EF1AE129451D3000FC9CEF /* AppDelegate.swift in Sources */,
 				17EF1B25294522A300FC9CEF /* TableViewController.swift in Sources */,
 				17EF1AE329451D3000FC9CEF /* SceneDelegate.swift in Sources */,
+				17D09C322947760400D341CF /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
